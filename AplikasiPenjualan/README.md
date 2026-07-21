@@ -95,14 +95,3 @@ Akun default (dari data awal di SQL):
 | Trigger                    | `trg_setelah_detail`                                           |
 | View                       | `view_laporan_penjualan`                                       |
 
-## Catatan
-- Untuk output tugas: source code + file `.sql` diunggah ke GitHub, video live
-  coding ke YouTube, laporan PDF (deskripsi, implementasi PBO, screenshot,
-  kesimpulan) ke Google Drive, lalu semua link dikirim ke email dosen sesuai
-  instruksi soal.
-- Saat live coding: cukup ketik `MasterForm`/`BaseDAO` satu kali sambil
-  dijelaskan, lalu tiga form CRUD & DAO turunannya tinggal "isi bagian yang
-  beda" mengikuti pola yang sama — jauh lebih cepat daripada menulis 3 form
-  penuh dari nol satu-satu.
-- Silakan tetap dikembangkan lagi (validasi tambahan, styling GUI, cetak
-  struk, dll.) agar terlihat sebagai hasil kerja kamu sendiri.
