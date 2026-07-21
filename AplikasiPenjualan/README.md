@@ -1,13 +1,5 @@
 # Aplikasi Penjualan Berbasis Java GUI dan MySQL
 
-Project Java Swing + MySQL untuk memenuhi tugas:
-Login, CRUD User/Barang/Pelanggan, Pencarian, Transaksi Penjualan, Laporan Penjualan,
-dengan penerapan Stored Procedure, Function, Trigger, View, dan konsep OOP lengkap.
-
-> Versi ini dirapikan agar lebih ringkas untuk live coding: form CRUD (Barang/Pelanggan/User)
-> dan DAO memakai superclass abstrak (`MasterForm`, `BaseDAO`) sehingga tidak ada kode yang
-> diulang tiga kali. Fitur dan output aplikasi tetap sama persis seperti sebelumnya.
-
 ## Struktur Folder
 
 ```
@@ -69,7 +61,7 @@ AplikasiPenjualan/
 ### 3. Login
 Akun default (dari data awal di SQL):
 - Username: `admin`   | Password: `admin123`  (role: admin)
-- Username: `kasir1`  | Password: `kasir123`  (role: kasir)
+- Username: `kasir1`  | Password: `12345`  (role: ARI RIZAL KASIR)
 
 ## Pemetaan Ketentuan Tugas ke Kode
 
